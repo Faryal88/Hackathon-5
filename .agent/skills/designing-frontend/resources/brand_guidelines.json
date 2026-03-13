@@ -1,0 +1,89 @@
+{
+    "colorScheme": "light",
+    "fonts": [
+        {
+            "family": "Inter",
+            "role": "body"
+        },
+        {
+            "family": "Martina Plantijn Light",
+            "role": "heading"
+        }
+    ],
+    "colors": {
+        "primary": "#3E2407",
+        "accent": "#3E2407",
+        "background": "#FDF6EE",
+        "textPrimary": "#0000EE",
+        "link": "#F7F0E8"
+    },
+    "typography": {
+        "fontFamilies": {
+            "primary": "Inter",
+            "heading": "Martina Plantijn Light"
+        },
+        "fontStacks": {
+            "heading": [
+                "Martina Plantijn Light",
+                "sans-serif"
+            ],
+            "body": [
+                "sans-serif"
+            ],
+            "paragraph": [
+                "Inter",
+                "sans-serif"
+            ]
+        },
+        "fontSizes": {
+            "h1": "64px",
+            "h2": "56px",
+            "body": "15px"
+        }
+    },
+    "spacing": {
+        "baseUnit": 4,
+        "borderRadius": "12px"
+    },
+    "components": {
+        "buttonPrimary": {
+            "background": "#3E2407",
+            "textColor": "#0000EE",
+            "borderRadius": "12px",
+            "borderRadiusCorners": {
+                "topLeft": "12px",
+                "topRight": "12px",
+                "bottomRight": "12px",
+                "bottomLeft": "12px"
+            },
+            "shadow": "rgba(255, 92, 0, 0.25) 0px 0px 8px 0px"
+        },
+        "buttonSecondary": {
+            "background": "#FFFFFF",
+            "textColor": "#0000EE",
+            "borderRadius": "12px",
+            "borderRadiusCorners": {
+                "topLeft": "12px",
+                "topRight": "12px",
+                "bottomRight": "12px",
+                "bottomLeft": "12px"
+            },
+            "shadow": "none"
+        }
+    },
+    "images": {
+        "logo": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20viewBox%3D%220%200%2038%2023%22%3E%3Cpath%20d%3D%22M%200%200%20L%207.588%200%20C%2010.206%200%2012.435%200.416%2014.277%201.249%20C%2016.118%202.081%2017.538%203.362%2018.536%205.093%20C%2018.705%205.382%2018.858%205.679%2018.994%205.983%20C%2019.131%205.679%2019.284%205.382%2019.452%205.093%20C%2020.451%203.362%2021.87%202.081%2023.712%201.249%20C%2025.553%200.416%2027.783%200%2030.401%200%20L%2037.988%200%20L%2037.988%203.056%20L%2030.401%203.056%20C%2027.517%203.056%2025.354%203.779%2023.911%205.224%20C%2022.794%206.345%2022.109%207.854%2021.858%209.752%20L%2037.989%209.752%20L%2037.989%2013.088%20L%2021.835%2013.088%20C%2021.976%2014.318%2022.291%2015.377%2022.78%2016.264%20C%2023.468%2017.513%2024.444%2018.433%2025.709%2019.024%20C%2026.973%2019.616%2028.504%2019.911%2030.301%2019.911%20L%2037.988%2019.911%20L%2037.988%2023%20L%2029.968%2023%20C%2027.395%2023%2025.209%2022.529%2023.412%2021.587%20C%2021.615%2020.645%2020.262%2019.309%2019.352%2017.579%20C%2019.224%2017.339%2019.104%2017.096%2018.994%2016.848%20C%2018.884%2017.096%2018.765%2017.34%2018.636%2017.579%20C%2017.727%2019.309%2016.373%2020.645%2014.576%2021.587%20C%2012.779%2022.529%2010.594%2023%208.02%2023%20L%200%2023%20L%200%2019.911%20L%207.688%2019.911%20C%209.485%2019.911%2011.015%2019.616%2012.28%2019.024%20C%2013.545%2018.433%2014.521%2017.513%2015.209%2016.264%20C%2015.697%2015.377%2016.012%2014.318%2016.154%2013.088%20L%200%2013.088%20L%200%209.752%20L%2016.131%209.752%20C%2015.88%207.854%2015.195%206.345%2014.077%205.224%20C%2012.635%203.779%2010.472%203.056%207.588%203.056%20L%200%203.056%20Z%22%20fill%3D%22rgb(33%2C%2032%2C%2028)%22%3E%3C%2Fpath%3E%3C%2Fsvg%3E",
+        "favicon": "https://framerusercontent.com/images/XP8UNjfweUv2DBFnf8fTFD9Ko.png",
+        "ogImage": "https://framerusercontent.com/images/TuYDKcy8KTUNSLduYUtgnunKxMc.jpg",
+        "logoHref": "./"
+    },
+    "personality": {
+        "tone": "modern",
+        "energy": "medium",
+        "targetAudience": "professionals and businesses seeking AI insights"
+    },
+    "designSystem": {
+        "framework": "custom",
+        "componentLibrary": ""
+    }
+}
